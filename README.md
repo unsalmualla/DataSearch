@@ -20,3 +20,6 @@ Programda, iç içe 4 döngü bulunmaktadır. Genel mantık itibariyle öncelikl
  - Gen ve kişi eşleştiğinde ise **kesişim noktalarındaki değeri alarak** yeni oluşturduğu dosya içerisine yazmaya başlar.
  - Bu işlemi **döngü içerisinde** her kişi ve gen için uygular.
 
+## Önemli
+Programı denemek ve hızlı bir sonuç alması açısından örnek bir Excell dosyası kaydedilmiştir. 
+Bu program henüz büyük veriler için test aşamasındadır.
