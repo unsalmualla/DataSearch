@@ -1,7 +1,4 @@
-# SequenceSearch
-DNA metilasyon verilerine bağlı olarak protein ifade verilerinin excell üzerinden çekilmesi
 ## Welcome to DataSearch!
-
 Bu program  spesifik bir görev için tasarlanmıştır. Kanser türlerinde; **DNA metilasyon** verisi bulunan örneklerin, **mRNA zscores** verilerinden alınıp yeni bir data oluşturmayı amaçlamaktadır.
 > Böylelikle metilasyon verisi ile protein ifade düzeyleri arasında karşılaştırma yapmamıza olanak sağlar.
 
@@ -11,7 +8,7 @@ Programı başlatmadan önce Excell'den veri işlememizi sağlayan **openpyxl** 
 ## Program başladıktan sonra
 Program çalıştırıldığı anda **kullanıcıdan birkaç bilgi istemektedir.** Bunlar; verilerin bulunduğu **excell dosyası(uzantısıyla beraber)**, **yeni oluşturulacak dosyanın adı(uzantısıyla beraber)**, **sheetlerin numaraları (sheetler 0'dan numaralandırılmaya başlanır).**
 Bu işlemlerden sonra döngü çalışmaya başlar ve dosyanın büyüklüğüne göre çalışma süresi değişebilmektedir.
-# Programın içeriği
+## Programın içeriği
 
 Programda, iç içe 4 döngü bulunmaktadır. Genel mantık itibariyle öncelikle;
 
