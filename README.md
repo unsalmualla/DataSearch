@@ -1,5 +1,5 @@
 ## Welcome to DataSearch!
-Bu program  spesifik bir görev için "prototip" tasarlanmıştır. Kanser türlerinde; **DNA metilasyon** verisi bulunan örneklerin, **mRNA zscores** verilerinden alınıp yeni bir data oluşturmayı amaçlamaktadır.
+Bu program  spesifik bir görev için "prototip" olarak tasarlanmıştır. Kanser türlerinde; **DNA metilasyon** verisi bulunan örneklerin, **mRNA zscores** verilerinden alınıp yeni bir data oluşturmayı amaçlamaktadır.
 > Böylelikle metilasyon verisi ile mRNA düzeyleri arasında karşılaştırma yapmamıza olanak sağlar.
 
 ## Programı başlatmadan önce
