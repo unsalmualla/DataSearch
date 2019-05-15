@@ -1,9 +1,9 @@
 ## Welcome to DataSearch!
 Bu program  spesifik bir görev için tasarlanmıştır. Kanser türlerinde; **DNA metilasyon** verisi bulunan örneklerin, **mRNA zscores** verilerinden alınıp yeni bir data oluşturmayı amaçlamaktadır.
-> Böylelikle metilasyon verisi ile protein ifade düzeyleri arasında karşılaştırma yapmamıza olanak sağlar.
+> Böylelikle metilasyon verisi ile mRNA düzeyleri arasında karşılaştırma yapmamıza olanak sağlar.
 
 ## Programı başlatmadan önce
-Programı başlatmadan önce Excell'den veri işlememizi sağlayan **openpyxl** modülünü ve **load_workbook** fonksiyonunu içeriye aktarmamız gerekmektedir. Ayrıca metilasyon tablosu ve protein ifade düzeyleri aynı excell dosyası içerisinde farklı sheetlerde bulunmalıdır.
+Programı başlatmadan önce Excell'den veri işlememizi sağlayan **openpyxl** modülünü ve **load_workbook** fonksiyonunu içeriye aktarmamız gerekmektedir. Ayrıca metilasyon tablosu ve mRNA düzeyleri aynı excell dosyası içerisinde farklı sheetlerde bulunmalıdır.
 
 ## Program başladıktan sonra
 Program çalıştırıldığı anda **kullanıcıdan birkaç bilgi istemektedir.** Bunlar; verilerin bulunduğu **excell dosyası(uzantısıyla beraber)**, **yeni oluşturulacak dosyanın adı(uzantısıyla beraber)**, **sheetlerin numaraları (sheetler 0'dan numaralandırılmaya başlanır).**
